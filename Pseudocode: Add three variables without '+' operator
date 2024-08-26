@@ -1,0 +1,9 @@
+Start
+Input num1, num2, num3
+set abs=100, d=0, sum=0
+d=abs-num1
+d=d-num2
+d=d-num3
+now sum=abs-d
+Print sum
+End
