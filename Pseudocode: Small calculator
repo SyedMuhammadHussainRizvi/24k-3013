@@ -1,0 +1,11 @@
+Start
+Input num1, num2, op, ans
+if op=='+' then
+ans = num1 + num2
+Print ans
+else if op=='-'
+ans = num1 - num2
+print ans
+else 
+print "Wrong operator"
+End
