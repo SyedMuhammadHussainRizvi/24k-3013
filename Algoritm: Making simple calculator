@@ -1,0 +1,21 @@
+Declare variable num1, num2, op, ans
+Ask user to input num1, num1, op
+
+if op == '+' then
+  ans = num1 + num2
+  Display ans
+else if op == '-' then
+  ans = num1 - num2
+  Display ans
+else if op == '*' then
+  ans = num1 * num2
+  Display ans
+else if op == '/' then
+  ans = num1 / num2
+  Display ans
+else if op == '%' then
+  ans = num1 % num2
+  Display ans
+else
+  display "wrong operator"
+end
