@@ -1,0 +1,9 @@
+Declare variable num1, num2, div, ans
+Ask user to input for num1 and num2
+div = num2/num1
+ans = div%2
+if ans==0 then
+  display "It is even"
+else 
+  display "It is odd"
+End
