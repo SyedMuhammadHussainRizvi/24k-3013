@@ -1,0 +1,28 @@
+Ask user to input number for month
+if number == 1 then
+  Display "January"
+else if number == 2 then
+  Display "Feburary"
+else if number == 3 then
+  Display "March"
+else if number == 4 then
+  Display "April"
+else if number == 5 then
+  Display "May"
+else if number == 6 then
+  Display "June"
+else if number == 7 then
+  Display "July"
+else if number == 8 then
+  Display "August"
+else if number == 9 then
+  Display "September"
+else if number == 10 then
+  Display "October"
+else if number == 11 then
+  Display "November"
+else if number == 12 then
+  Display "December"
+else   
+  Display "Wrong number"
+End
